@@ -1,0 +1,5 @@
+Старт | 1 | 30 | https://sbp.link/sub1 | 25 | 20
+Базовая | 2 | 30 | https://sbp.link/sub2 | 50 | 50
+Продвинутая | 3 | 30 | https://sbp.link/sub3 | 120 | 150
+PRO Безлимит | 4 | 30 | https://sbp.link/sub4 | 350 | 999999
+ULTRA Навсегда | 5 | 9999 | https://sbp.link/sub5 | 990 | 999999

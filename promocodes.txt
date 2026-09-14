@@ -1,0 +1,2 @@
+FREEPRO | sub | 2
+PLUS20 | requests | 20
